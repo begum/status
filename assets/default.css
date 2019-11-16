@@ -1,0 +1,71 @@
+* {
+  box-sizing: border-box;
+  font-family: Monaco,mono,sans;
+}
+
+html, body { height:100%; margin:0; }
+
+header {
+  font-size: 32px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  line-height: 42px;
+  top: 0;
+  left: 0;
+  background-color: #d70a53;
+  color: white;
+}
+
+body {
+  min-width: 200px;
+  max-width: 1012px;
+  margin: 0 auto 0 auto;
+  padding: 45px;
+
+  font-size: 20px;
+  line-height: 1.5;
+  word-wrap: break-word;
+
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  height: 42px;
+  margin-top:auto;
+  padding: 48px;
+  width: 100%;
+
+  text-align: center;
+  font-size: 14px;
+  color: #666;
+}
+
+h1 {
+  font-size: 48px;
+  margin-top; 72px;
+}
+
+h2 {
+  font-size: 32px;
+  margin-top; 56px;
+}
+
+ul {
+  padding-left: 2em;
+}
+
+.task-list-item {
+  list-style-type: none;
+}
+
+.task-list-item-checkbox {
+  margin: 0 1em .25em -2em;
+  vertical-align: middle;
+}
+
+[type="checkbox"], [type="radio"] {
+  box-sizing: border-box;
+  padding: 0;
+}
