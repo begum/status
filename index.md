@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 16 Kasım Cumartesi, 2019  10:43
+modified: 16 Kasım Cumartesi, 2019  12:42
 ---
 
 Yapıyor
