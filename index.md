@@ -1,13 +1,15 @@
 ---
 layout: default
 title: Durum
-modified: 16 Kasım Cumartesi, 2019  12:42
+modified: 17 Kasım Pazar, 2019  13:37
 ---
 
 Yapıyor
 -------
 
 - [ ] Dokümante edilmiş refaktörleri yap [[omu/she]]
+
+  + [ ] URL ayrıştırmasını kabuk dışında bir dille gerçekle
 
 Yapacak
 -------
