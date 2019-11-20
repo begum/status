@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 17 Kasım Pazar, 2019  13:37
+modified: 20 Kasım Çarşamba, 2019  16:22
 ---
 
 Yapıyor
@@ -9,7 +9,13 @@ Yapıyor
 
 - [ ] Dokümante edilmiş refaktörleri yap [[omu/she]]
 
-  + [ ] URL ayrıştırmasını kabuk dışında bir dille gerçekle
+- [ ] URL ayrıştırmasını kabuk dışında bir dille gerçekle [[omu/zoo/usl]]
+
+  + [X] WIP halde gerçekle
+
+  + [ ] Testlerini yaz
+
+  + [ ] Kısaca dokümante et
 
 Yapacak
 -------
@@ -59,3 +65,4 @@ Yaptı
 [omu/rubian]:  https://github.com/omu/imgian
 [omu/scripts]: https://github.com/omu/scripts
 [omu/she]:     https://github.com/omu/she
+[omu/zoo/usl]: https://github.com/omu/zoo/usl
