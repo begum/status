@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 20 Kasım Çarşamba, 2019  16:22
+modified: 20 Kasım Çarşamba, 2019  16:24
 ---
 
 Yapıyor
@@ -65,4 +65,4 @@ Yaptı
 [omu/rubian]:  https://github.com/omu/imgian
 [omu/scripts]: https://github.com/omu/scripts
 [omu/she]:     https://github.com/omu/she
-[omu/zoo/usl]: https://github.com/omu/zoo/usl
+[omu/zoo/usl]: https://github.com/omu/zoo/tree/master/usl
