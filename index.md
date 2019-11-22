@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 20 Kasım Çarşamba, 2019  16:24
+modified: 22 Kasım Cuma, 2019  16:38
 ---
 
 Yapıyor
@@ -13,9 +13,11 @@ Yapıyor
 
   + [X] WIP halde gerçekle
 
-  + [ ] Testlerini yaz
+  + [X] Testlerini yaz
 
   + [ ] Kısaca dokümante et
+
+  + [ ] Github actions yoluyla binary yayınla
 
 Yapacak
 -------
