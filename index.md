@@ -1,23 +1,15 @@
 ---
 layout: default
 title: Durum
-modified: 22 Kasım Cuma, 2019  16:38
+modified: 29 Kasım Cuma, 2019  16:11
 ---
 
 Yapıyor
 -------
 
+- [ ] Rakefile'daki omu/she jeneratörünü `scedilla` olarak refaktörle [[omu/dev]]
+
 - [ ] Dokümante edilmiş refaktörleri yap [[omu/she]]
-
-- [ ] URL ayrıştırmasını kabuk dışında bir dille gerçekle [[omu/zoo/usl]]
-
-  + [X] WIP halde gerçekle
-
-  + [X] Testlerini yaz
-
-  + [ ] Kısaca dokümante et
-
-  + [ ] Github actions yoluyla binary yayınla
 
 Yapacak
 -------
@@ -28,15 +20,13 @@ Yapacak
 
 - [ ] Yeni repo aç [[omu/dev]]
 
-- [ ] Rakefile'daki omu/she jeneratörünü `sheg` olarak refaktörle [[omu/dev]]
+- [ ] Değişkenleri oluşturan omu/zoo `variac`'ı `backslash` olarak refaktörle [[omu/dev]]
 
-- [ ] Değişkenleri oluşturan omu/zoo `variac`'ı `varg` olarak refaktörle [[omu/dev]]
-
-- [ ] Jeneratörü (`sheg`) vendor mantığıyla diğer projelerde de tüket
+- [ ] Jeneratörü (`scedilla`) vendor mantığıyla diğer projelerde de tüket
 
 - [ ] Debian deposunun omu/scripts olarak yeniden adlandır [[omu/scripts]]
 
-- [ ] Jeneratör (`sheg`) yoluyla scripts.omu.sh dispatcher yaz [[omu/scripts]]
+- [ ] Jeneratör (`scedilla`) yoluyla scripts.omu.sh dispatcher yaz [[omu/scripts]]
 
 - [ ] Dispatcher'da opsiyonel bir seviyeli alt komut kullanılabilsin (ör. box server) [[omu/scripts]]
 
@@ -61,10 +51,20 @@ Yaptı
 
 - [X] ~~Çalışma ajandasını yayınla (bu içerik)~~~
 
+- [X] ~~URL ayrıştırmasını kabuk dışında bir dille gerçekle [[omu/underscore]]~~
+
+  + [X] WIP halde gerçekle
+
+  + [X] Testlerini yaz
+
+  + [X] Kısaca dokümante et
+
+  + [X] Github actions yoluyla binary yayınla
+
 [omu/cloud]:   https://github.com/omu/cloud
 [omu/dev]:     https://github.com/omu/dev
 [omu/imgian]:  https://github.com/omu/imgian
 [omu/rubian]:  https://github.com/omu/imgian
 [omu/scripts]: https://github.com/omu/scripts
 [omu/she]:     https://github.com/omu/she
-[omu/zoo/usl]: https://github.com/omu/zoo/tree/master/usl
+[omu/zoo/usl]: https://github.com/omu/underscore
