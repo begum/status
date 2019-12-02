@@ -1,13 +1,11 @@
 ---
 layout: default
 title: Durum
-modified: 29 Kasım Cuma, 2019  16:11
+modified: 02 Aralık Pazartesi, 2019  09:46
 ---
 
 Yapıyor
 -------
-
-- [ ] Rakefile'daki omu/she jeneratörünü `scedilla` olarak refaktörle [[omu/dev]]
 
 - [ ] Dokümante edilmiş refaktörleri yap [[omu/she]]
 
@@ -60,6 +58,8 @@ Yaptı
   + [X] Kısaca dokümante et
 
   + [X] Github actions yoluyla binary yayınla
+
+- [X] ~~Rakefile'daki omu/she jeneratörünü `scedilla` olarak refaktörle [[omu/dev]]~~
 
 [omu/cloud]:   https://github.com/omu/cloud
 [omu/dev]:     https://github.com/omu/dev
