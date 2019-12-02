@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 02 Aralık Pazartesi, 2019  09:46
+modified: 02 Aralık Pazartesi, 2019  10:54
 ---
 
 Yapıyor
@@ -61,10 +61,15 @@ Yaptı
 
 - [X] ~~Rakefile'daki omu/she jeneratörünü `scedilla` olarak refaktörle [[omu/dev]]~~
 
+- [X] ~~Kabuk kitaplıklarını ayır [[omu/home]]~~
+
+- [X] ~~Kabuk kitaplıklarını tüketecek şekilde refaktörle [[omu/she]]~~
+
 [omu/cloud]:   https://github.com/omu/cloud
 [omu/dev]:     https://github.com/omu/dev
 [omu/imgian]:  https://github.com/omu/imgian
 [omu/rubian]:  https://github.com/omu/imgian
 [omu/scripts]: https://github.com/omu/scripts
+[omu/she]:     https://github.com/omu/home
 [omu/she]:     https://github.com/omu/she
 [omu/zoo/usl]: https://github.com/omu/underscore
