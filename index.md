@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Durum
-modified: 02 Aralık Pazartesi, 2019  10:54
+modified: 03 Aralık Salı, 2019  11:30
 ---
 
 Yapıyor
 -------
 
+- [ ] Değişken şablonları desteği ekle [[omu/underscore]]
 - [ ] Dokümante edilmiş refaktörleri yap [[omu/she]]
 
 Yapacak
