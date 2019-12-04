@@ -1,13 +1,12 @@
 ---
 layout: default
 title: Durum
-modified: 03 Aralık Salı, 2019  11:30
+modified: 04 Aralık Çarşamba, 2019  13:49
 ---
 
 Yapıyor
 -------
 
-- [ ] Değişken şablonları desteği ekle [[omu/underscore]]
 - [ ] Dokümante edilmiş refaktörleri yap [[omu/she]]
 
 Yapacak
@@ -48,7 +47,13 @@ Yapacak
 Yaptı
 -------
 
-- [X] ~~Çalışma ajandasını yayınla (bu içerik)~~~
+- [X] ~~Değişken şablonları desteği ekle [[omu/underscore]]~~
+
+- [X] ~~Kabuk kitaplıklarını tüketecek şekilde refaktörle [[omu/she]]~~
+
+- [X] ~~Kabuk kitaplıklarını ayır [[omu/home]]~~
+
+- [X] ~~Rakefile'daki omu/she jeneratörünü `scedilla` olarak refaktörle [[omu/dev]]~~
 
 - [X] ~~URL ayrıştırmasını kabuk dışında bir dille gerçekle [[omu/underscore]]~~
 
@@ -60,11 +65,7 @@ Yaptı
 
   + [X] Github actions yoluyla binary yayınla
 
-- [X] ~~Rakefile'daki omu/she jeneratörünü `scedilla` olarak refaktörle [[omu/dev]]~~
-
-- [X] ~~Kabuk kitaplıklarını ayır [[omu/home]]~~
-
-- [X] ~~Kabuk kitaplıklarını tüketecek şekilde refaktörle [[omu/she]]~~
+- [X] ~~Çalışma ajandasını yayınla (bu içerik)~~~
 
 [omu/cloud]:   https://github.com/omu/cloud
 [omu/dev]:     https://github.com/omu/dev
