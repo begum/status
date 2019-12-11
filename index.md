@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 11 Aralık Çarşamba, 2019  16:55
+modified: 11 Aralık Çarşamba, 2019  16:57
 ---
 
 Yapıyor
@@ -47,7 +47,7 @@ Yapacak
 Yaptı
 -------
 
-- [X] ||Cache gerçeklemesini WIP olarak tamamla [[omu/she]]||
+- [X] ~~Cache gerçeklemesini WIP olarak tamamla [[omu/she]]~~
 
 - [X] ~~Değişken şablonları desteği ekle [[omu/underscore]]~~
 
