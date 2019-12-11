@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 04 Aralık Çarşamba, 2019  13:49
+modified: 11 Aralık Çarşamba, 2019  16:55
 ---
 
 Yapıyor
@@ -47,6 +47,8 @@ Yapacak
 Yaptı
 -------
 
+- [X] ||Cache gerçeklemesini WIP olarak tamamla [[omu/she]]||
+
 - [X] ~~Değişken şablonları desteği ekle [[omu/underscore]]~~
 
 - [X] ~~Kabuk kitaplıklarını tüketecek şekilde refaktörle [[omu/she]]~~
@@ -67,11 +69,11 @@ Yaptı
 
 - [X] ~~Çalışma ajandasını yayınla (bu içerik)~~~
 
-[omu/cloud]:   https://github.com/omu/cloud
-[omu/dev]:     https://github.com/omu/dev
-[omu/imgian]:  https://github.com/omu/imgian
-[omu/rubian]:  https://github.com/omu/imgian
-[omu/scripts]: https://github.com/omu/scripts
-[omu/she]:     https://github.com/omu/home
-[omu/she]:     https://github.com/omu/she
-[omu/zoo/usl]: https://github.com/omu/underscore
+[omu/cloud]:      https://github.com/omu/cloud
+[omu/dev]:        https://github.com/omu/dev
+[omu/imgian]:     https://github.com/omu/imgian
+[omu/rubian]:     https://github.com/omu/rubian
+[omu/scripts]:    https://github.com/omu/scripts
+[omu/she]:        https://github.com/omu/home
+[omu/she]:        https://github.com/omu/she
+[omu/underscore]: https://github.com/omu/underscore
