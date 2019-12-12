@@ -1,12 +1,13 @@
 ---
 layout: default
 title: Durum
-modified: 12 Aralık Perşembe, 2019  15:06
+modified: 12 Aralık Perşembe, 2019  16:25
 ---
 
 Yapıyor
 -------
 
+- [ ] Run gerçeklemesini tamamla [[omu/shell]]
 - [ ] API iyileştir [[omu/she]]
 - [ ] Manuel test [[omu/she]]
 
@@ -61,14 +62,6 @@ Yaptı
 - [X] ~~Rakefile'daki omu/she jeneratörünü `scedilla` olarak refaktörle [[omu/dev]]~~
 
 - [X] ~~URL ayrıştırmasını kabuk dışında bir dille gerçekle [[omu/underscore]]~~
-
-  + [X] WIP halde gerçekle
-
-  + [X] Testlerini yaz
-
-  + [X] Kısaca dokümante et
-
-  + [X] Github actions yoluyla binary yayınla
 
 - [X] ~~Çalışma ajandasını yayınla (bu içerik)~~~
 
