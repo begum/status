@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Durum
-modified: 11 Aralık Çarşamba, 2019  16:57
+modified: 12 Aralık Perşembe, 2019  15:06
 ---
 
 Yapıyor
 -------
 
-- [ ] Dokümante edilmiş refaktörleri yap [[omu/she]]
+- [ ] API iyileştir [[omu/she]]
+- [ ] Manuel test [[omu/she]]
 
 Yapacak
 -------
@@ -46,6 +47,8 @@ Yapacak
 
 Yaptı
 -------
+
+- [X] ~~Dokümante edilmiş refaktörleri yap [[omu/she]]~~
 
 - [X] ~~Cache gerçeklemesini WIP olarak tamamla [[omu/she]]~~
 
