@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Durum
-modified: 12 Aralık Perşembe, 2019  16:25
+modified: 17 Aralık Salı, 2019  16:10
 ---
 
 Yapıyor
 -------
 
-- [ ] Run gerçeklemesini tamamla [[omu/shell]]
 - [ ] API iyileştir [[omu/she]]
+
 - [ ] Manuel test [[omu/she]]
 
 Yapacak
@@ -48,6 +48,8 @@ Yapacak
 
 Yaptı
 -------
+
+- [X] Run gerçeklemesini tamamla [[omu/she]]
 
 - [X] ~~Dokümante edilmiş refaktörleri yap [[omu/she]]~~
 
