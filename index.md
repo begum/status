@@ -1,13 +1,11 @@
 ---
 layout: default
 title: Durum
-modified: 17 Aralık Salı, 2019  16:10
+modified: 20 Aralık Cuma, 2019  15:26
 ---
 
 Yapıyor
 -------
-
-- [ ] API iyileştir [[omu/she]]
 
 - [ ] Manuel test [[omu/she]]
 
@@ -16,13 +14,13 @@ Yapacak
 
 - [ ] Mevcut çalışmaların akademik değerlendirilmesi için literatür taraması yap
 
-- [ ] Bitirme projesi gruplarıyla toplantı yap
-
 - [ ] Yeni repo aç [[omu/dev]]
 
 - [ ] Değişkenleri oluşturan omu/zoo `variac`'ı `backslash` olarak refaktörle [[omu/dev]]
 
 - [ ] Jeneratörü (`scedilla`) vendor mantığıyla diğer projelerde de tüket
+
+- [ ] Eski etc işlevi yerine ne kullanılacağını belirle [[omu/she]]
 
 - [ ] Debian deposunun omu/scripts olarak yeniden adlandır [[omu/scripts]]
 
@@ -33,8 +31,6 @@ Yapacak
 - [ ] İmaj üretiminde dispatcher'ı curl yoluyla tüket [[omu/cloud]]
 
 - [ ] Finalize et [[omu/scripts]]
-
-- [ ] Eski scripts aracı yerine `x` ve `_ exe` yaz [[omu/she]]
 
 - [ ] Yeni isimlendirme ve sürümlendirme ile ilk imajları manuel olarak üret [[omu/imgian]]
 
@@ -49,7 +45,11 @@ Yapacak
 Yaptı
 -------
 
-- [X] Run gerçeklemesini tamamla [[omu/she]]
+- [ ] ~~Eski scripts aracı yerine `x` yaz [[omu/she]]~~
+
+- [X] ~~API iyileştir [[omu/she]]~~
+
+- [X] ~~Run gerçeklemesini tamamla [[omu/she]]~~
 
 - [X] ~~Dokümante edilmiş refaktörleri yap [[omu/she]]~~
 
