@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 20 Aralık Cuma, 2019  15:26
+modified: 26 Aralık Perşembe, 2019  13:29
 ---
 
 Yapıyor
@@ -45,7 +45,7 @@ Yapacak
 Yaptı
 -------
 
-- [ ] ~~Eski scripts aracı yerine `x` yaz [[omu/she]]~~
+- [X] ~~Eski scripts aracı yerine `x` yaz [[omu/she]]~~
 
 - [X] ~~API iyileştir [[omu/she]]~~
 
