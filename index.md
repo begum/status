@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 26 Aralık Perşembe, 2019  13:29
+modified: 28 Aralık Cumartesi, 2019  19:58
 ---
 
 Yapıyor
@@ -19,8 +19,6 @@ Yapacak
 - [ ] Değişkenleri oluşturan omu/zoo `variac`'ı `backslash` olarak refaktörle [[omu/dev]]
 
 - [ ] Jeneratörü (`scedilla`) vendor mantığıyla diğer projelerde de tüket
-
-- [ ] Eski etc işlevi yerine ne kullanılacağını belirle [[omu/she]]
 
 - [ ] Debian deposunun omu/scripts olarak yeniden adlandır [[omu/scripts]]
 
@@ -44,6 +42,8 @@ Yapacak
 
 Yaptı
 -------
+
+- [X] ~~Eski etc ve var işlevlerini gerçekle [[omu/she]]~~
 
 - [X] ~~Eski scripts aracı yerine `x` yaz [[omu/she]]~~
 
