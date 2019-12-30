@@ -1,13 +1,17 @@
 ---
 layout: default
 title: Durum
-modified: 28 Aralık Cumartesi, 2019  19:58
+modified: 30 Aralık Pazartesi, 2019  15:23
 ---
 
 Yapıyor
 -------
 
-- [ ] Manuel test [[omu/she]]
+- [ ] Debian deposunun omu/scripts olarak yeniden adlandır [[omu/scripts]]
+
+- [ ] Jeneratör (`scedilla`) yoluyla scripts.omu.sh dispatcher yaz [[omu/scripts]]
+
+- [ ] Dispatcher'da opsiyonel bir seviyeli alt komut kullanılabilsin (ör. box server) [[omu/scripts]]
 
 Yapacak
 -------
@@ -19,12 +23,6 @@ Yapacak
 - [ ] Değişkenleri oluşturan omu/zoo `variac`'ı `backslash` olarak refaktörle [[omu/dev]]
 
 - [ ] Jeneratörü (`scedilla`) vendor mantığıyla diğer projelerde de tüket
-
-- [ ] Debian deposunun omu/scripts olarak yeniden adlandır [[omu/scripts]]
-
-- [ ] Jeneratör (`scedilla`) yoluyla scripts.omu.sh dispatcher yaz [[omu/scripts]]
-
-- [ ] Dispatcher'da opsiyonel bir seviyeli alt komut kullanılabilsin (ör. box server) [[omu/scripts]]
 
 - [ ] İmaj üretiminde dispatcher'ı curl yoluyla tüket [[omu/cloud]]
 
@@ -42,6 +40,8 @@ Yapacak
 
 Yaptı
 -------
+
+- [X] ~~Manuel test [[omu/she]]~~
 
 - [X] ~~Eski etc ve var işlevlerini gerçekle [[omu/she]]~~
 
