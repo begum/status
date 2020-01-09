@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Durum
-modified: 30 Aralık Pazartesi, 2019  15:23
+modified: 09 Ocak Perşembe, 2020  10:29
 ---
 
 Yapıyor
 -------
+
+- [ ] Genel ve özel kabuk fonksiyonlarını ayır
 
 - [ ] Debian deposunun omu/scripts olarak yeniden adlandır [[omu/scripts]]
 
