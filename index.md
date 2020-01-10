@@ -1,19 +1,17 @@
 ---
 layout: default
 title: Durum
-modified: 09 Ocak Perşembe, 2020  10:29
+modified: 10 Ocak Cuma, 2020  16:08
 ---
 
 Yapıyor
 -------
 
-- [ ] Genel ve özel kabuk fonksiyonlarını ayır
-
-- [ ] Debian deposunun omu/scripts olarak yeniden adlandır [[omu/scripts]]
-
 - [ ] Jeneratör (`scedilla`) yoluyla scripts.omu.sh dispatcher yaz [[omu/scripts]]
 
 - [ ] Dispatcher'da opsiyonel bir seviyeli alt komut kullanılabilsin (ör. box server) [[omu/scripts]]
+
+- [ ] Debian deposunun omu/scripts olarak yeniden adlandır [[omu/scripts]]
 
 Yapacak
 -------
@@ -42,6 +40,8 @@ Yapacak
 
 Yaptı
 -------
+
+- [X] ~~Genel ve özel kabuk fonksiyonlarını ayır~~
 
 - [X] ~~Manuel test [[omu/she]]~~
 
