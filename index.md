@@ -1,17 +1,15 @@
 ---
 layout: default
 title: Durum
-modified: 10 Ocak Cuma, 2020  16:08
+modified: 16 Ocak Perşembe, 2020  17:15
 ---
 
 Yapıyor
 -------
 
+- [ ] Son duruma göre dizin/proje adlarını elden geçir
+
 - [ ] Jeneratör (`scedilla`) yoluyla scripts.omu.sh dispatcher yaz [[omu/scripts]]
-
-- [ ] Dispatcher'da opsiyonel bir seviyeli alt komut kullanılabilsin (ör. box server) [[omu/scripts]]
-
-- [ ] Debian deposunun omu/scripts olarak yeniden adlandır [[omu/scripts]]
 
 Yapacak
 -------
