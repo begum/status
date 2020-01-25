@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 25 Ocak Cumartesi, 2020  14:02
+modified: 25 Ocak Cumartesi, 2020  14:05
 ---
 
 Yapıyor
@@ -37,7 +37,7 @@ Yapacak
 Yaptı
 -------
 
-- [X] Jeneratörü (`scedilla`) vendor mantığıyla diğer projelerde de tüket
+- [X] ~~Jeneratörü (`scedilla`) vendor mantığıyla diğer projelerde de tüket~~
 
 - [X] ~~Genel ve özel kabuk fonksiyonlarını ayır~~
 
