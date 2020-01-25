@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Durum
-modified: 16 Ocak Perşembe, 2020  17:15
+modified: 25 Ocak Cumartesi, 2020  14:02
 ---
 
 Yapıyor
@@ -9,69 +9,68 @@ Yapıyor
 
 - [ ] Son duruma göre dizin/proje adlarını elden geçir
 
-- [ ] Jeneratör (`scedilla`) yoluyla scripts.omu.sh dispatcher yaz [[omu/scripts]]
+- [ ] Araçları alaturka organizasyonuna taşı
+
+- [ ] Operator yapılandırmalarını ayır
 
 Yapacak
 -------
 
 - [ ] Mevcut çalışmaların akademik değerlendirilmesi için literatür taraması yap
 
-- [ ] Yeni repo aç [[omu/dev]]
+- [ ] Deneysel tüm araçlar için yeni repo aç [[alaturka/x]]
 
-- [ ] Değişkenleri oluşturan omu/zoo `variac`'ı `backslash` olarak refaktörle [[omu/dev]]
+- [ ] Değişkenleri oluşturan `variac`'ı `backslash` olarak refaktörle [[alaturka/x]]
 
-- [ ] Jeneratörü (`scedilla`) vendor mantığıyla diğer projelerde de tüket
+- [ ] Finalize et [[alaturka/debian]]
 
-- [ ] İmaj üretiminde dispatcher'ı curl yoluyla tüket [[omu/cloud]]
+- [ ] Yeni isimlendirme ve sürümlendirme ile ilk imajları manuel olarak üret [[alaturka/makian]]
 
-- [ ] Finalize et [[omu/scripts]]
+- [ ] Docker compose geçişini tamamla [[alaturka/imgian]] [[alaturka/makina]]
 
-- [ ] Yeni isimlendirme ve sürümlendirme ile ilk imajları manuel olarak üret [[omu/imgian]]
+- [ ] İmajları tam otomatik üret [[alaturka/imgian]] [[alaturka/makina]]
 
-- [ ] Docker compose geçişini tamamla [[omu/imgian]] [[omu/cloud]]
-
-- [ ] İmajları tam otomatik üret [[omu/imgian]] [[omu/cloud]]
-
-- [ ] Rubian'ı omu/she ile tekrar yaz (kitaplık seviyesinde veya `_` kullanarak) [[omu/rubian]]
+- [ ] Rubian'ı tekrar yaz (kitaplık seviyesinde veya `_` kullanarak) [[alaturka/rubian]]
 
 - [ ] Tenant unit üretimi için ayrı bir internal uygulama geliştirme fikrini olgunlaştır
 
 Yaptı
 -------
 
+- [X] Jeneratörü (`scedilla`) vendor mantığıyla diğer projelerde de tüket
+
 - [X] ~~Genel ve özel kabuk fonksiyonlarını ayır~~
 
-- [X] ~~Manuel test [[omu/she]]~~
+- [X] ~~Manuel test [[alaturka/alfabe]]~~
 
-- [X] ~~Eski etc ve var işlevlerini gerçekle [[omu/she]]~~
+- [X] ~~Eski etc ve var işlevlerini gerçekle [[alaturka/alfabe]]~~
 
-- [X] ~~Eski scripts aracı yerine `x` yaz [[omu/she]]~~
+- [X] ~~Eski scripts aracı yerine `x` yaz [[alaturka/she]]~~
 
-- [X] ~~API iyileştir [[omu/she]]~~
+- [X] ~~API iyileştir [[alaturka/alfabe]]~~
 
-- [X] ~~Run gerçeklemesini tamamla [[omu/she]]~~
+- [X] ~~Run gerçeklemesini tamamla [[alaturka/alfabe]]~~
 
-- [X] ~~Dokümante edilmiş refaktörleri yap [[omu/she]]~~
+- [X] ~~Dokümante edilmiş refaktörleri yap [[alaturka/alfabe]]~~
 
-- [X] ~~Cache gerçeklemesini WIP olarak tamamla [[omu/she]]~~
+- [X] ~~Cache gerçeklemesini WIP olarak tamamla [[alaturka/alfabe]]~~
 
-- [X] ~~Değişken şablonları desteği ekle [[omu/underscore]]~~
+- [X] ~~Değişken şablonları desteği ekle [[alaturka/underscore]]~~
 
-- [X] ~~Kabuk kitaplıklarını tüketecek şekilde refaktörle [[omu/she]]~~
+- [X] ~~Kabuk kitaplıklarını tüketecek şekilde refaktörle [[alaturka/alfabe]]~~
 
-- [X] ~~Kabuk kitaplıklarını ayır [[omu/home]]~~
+- [X] ~~Kabuk kitaplıklarını ayır [[alaturka/lingua]]~~
 
-- [X] ~~Rakefile'daki omu/she jeneratörünü `scedilla` olarak refaktörle [[omu/dev]]~~
+- [X] ~~Rakefile'daki alaturka/alfabe jeneratörünü `scedilla` olarak refaktörle [[alaturka/x]]~~
 
-- [X] ~~URL ayrıştırmasını kabuk dışında bir dille gerçekle [[omu/underscore]]~~
+- [X] ~~URL ayrıştırmasını kabuk dışında bir dille gerçekle [[alaturka/lodash]]~~
 
 - [X] ~~Çalışma ajandasını yayınla (bu içerik)~~~
 
-[omu/cloud]:      https://github.com/omu/cloud
-[omu/dev]:        https://github.com/omu/dev
-[omu/imgian]:     https://github.com/omu/imgian
-[omu/rubian]:     https://github.com/omu/rubian
-[omu/scripts]:    https://github.com/omu/scripts
-[omu/she]:        https://github.com/omu/home
-[omu/she]:        https://github.com/omu/she
-[omu/underscore]: https://github.com/omu/underscore
+[alaturka/alfabe]:     https://github.com/alaturka/alfabe
+[alaturka/debian]:     https://github.com/alaturka/debian
+[alaturka/lodash]:     https://github.com/alaturka/lodash
+[alaturka/makian]:     https://github.com/alaturka/makian
+[alaturka/makina]:     https://github.com/alaturka/makina
+[alaturka/rubian]:     https://github.com/alaturka/rubian
+[alaturka/x]:          https://github.com/alaturka/x
